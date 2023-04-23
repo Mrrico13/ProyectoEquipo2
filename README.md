@@ -6,15 +6,15 @@ Básicamente es un punto de venta conectado a una base de datos, se pueden tanto
 
 ## Objetivo General
 
-Automatizar las ventas que realiza un negocio mediante una aplicación
+Automatizar las ventas que realiza un negocio mediante una aplicación/página web.
 
 ## Misión y Visión
 
-Facilitar el proceso de venta de un negocio así como dar más visivilidad y promoción a sus productos y así aumentar las ventas de dichos productos y la el reconocimiento del negocio
+Facilitar el proceso de venta de un negocio así como dar más visibilidad y promoción a sus productos y así aumentar las ventas de dichos productos y el reconocimiento del negocio. Nuestra visión es que esta sea más fácil de administrar y que tenga una base de datos fácil de administrar para los productos que llegan o se van, a largo plazo es darle mantenimiento a la misma y que siga creciendo tanto el alcance del negocio como de la página misma.
 
 ## Información de los Integrantes
 
-Ruiz Rico Mioses - INNI
+Ruiz Rico Moises - INNI
 Castellanos Casillas Diego Leonardo - INNI
 Tiscareño Moncivais Juan Pablo de Jesus -INNI
-Jose Luis - INNI
+Becerra Peña Jose Luis - INNI
