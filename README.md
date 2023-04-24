@@ -17,4 +17,4 @@ Facilitar el proceso de venta de un negocio así como dar más visibilidad y pro
 Ruiz Rico Moises - INNI
 Castellanos Casillas Diego Leonardo - INNI
 Tiscareño Moncivais Juan Pablo de Jesus -INNI
-Becerra Peña Jose Luis - INNI
+Becerra Peña José Luis - INNI
