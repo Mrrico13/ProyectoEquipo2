@@ -14,7 +14,7 @@ Facilitar el proceso de venta de un negocio así como dar más visibilidad y pro
 
 ## Información de los Integrantes
 
-Ruiz Rico Moises - INNI
-Castellanos Casillas Diego Leonardo - INNI
-Tiscareño Moncivais Juan Pablo de Jesus -INNI
-Becerra Peña José Luis - INNI
+- Ruiz Rico Moises - INNI
+- Castellanos Casillas Diego Leonardo - INNI
+- Tiscareño Moncivais Juan Pablo de Jesus -INNI
+- Becerra Peña José Luis - INNI
