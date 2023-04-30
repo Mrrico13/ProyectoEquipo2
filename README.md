@@ -18,3 +18,9 @@ Facilitar el proceso de venta de un negocio así como dar más visibilidad y pro
 - Castellanos Casillas Diego Leonardo - INNI
 - Tiscareño Moncivais Juan Pablo DE Jesus -INNI
 - Becerra Peña José Luis - INNI
+
+## Documentación del proyecto
+
+### Front
+Agregué carpetas para cada una de las partes del frontend (carrito, contacto, funciones, librerías, productos, sesion, styles). Además de algunos archivos sueltos como el login, registro, el mismo index, cerrar sesión y cosas que ayudarán al cálculo del carrito. Las carpetas no cuentan con muchos archivos porque sigo trabajando en ellos, pero es un avance.
+La parte de estilos sí que cuenta con la mayoría de cosas que se utilizarán para el front, además de agregar librerías que ayudarán al desarrollo del mismo
