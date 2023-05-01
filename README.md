@@ -24,3 +24,11 @@ Facilitar el proceso de venta de un negocio así como dar más visibilidad y pro
 ### Front
 Agregué carpetas para cada una de las partes del frontend (carrito, contacto, funciones, librerías, productos, sesion, styles). Además de algunos archivos sueltos como el login, registro, el mismo index, cerrar sesión y cosas que ayudarán al cálculo del carrito. Las carpetas no cuentan con muchos archivos porque sigo trabajando en ellos, pero es un avance.
 La parte de estilos sí que cuenta con la mayoría de cosas que se utilizarán para el front, además de agregar librerías que ayudarán al desarrollo del mismo
+
+### Backend
+
+**Usuarios Administrador**
+Se creo la carpeta Admin y dentro la carpeta funciones que contienen los archivos necesarios
+para ingresar como administrador, esto conlleva validar el nombre de usuario, correo del usuario,
+cerrar la sesión y lo indispensable para que funcione, la conexión a la base de datos.
+Además del scrip eliminar que nos sirve para deshacernos de los elementos o archivos.
